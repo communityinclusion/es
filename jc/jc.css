@@ -37,3 +37,8 @@ section {padding-top: 5em; padding-bottom: 5em;}
 
 h1 {font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; border-bottom:1px solid slategray; padding:.5em; margin-bottom: .5em;}
 h2 {color:#333; font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; border-bottom: solid 1px lightgray;}
+
+.ici_orange {color: #F16725;}
+.ici_green {color: #5E9732;}
+.ici_purple {color: #5D2A78;}
+.ici_red {color:#B22E26;}
