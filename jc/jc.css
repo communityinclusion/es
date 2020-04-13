@@ -3,8 +3,13 @@ body {
   min-height: 75rem;
   padding-top: 4.5rem;
   position: relative;
+  font-family: Montserrat,sans-serif;
+
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: Montserrat,sans-serif;
+}
 
 nav.bg-dark {background-color: #187095 !important;}
 nav.bg-dark  ul li a {color:white !important;}
