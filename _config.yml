@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: ICI-Employment Services
+email: Jill.Eastman@umb.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ For over 35 years, ICI Employment Services has successfully assisted individuals with disabilities in seeking, securing, and maintaining employment. Using a person-centered approach, ICI Employment Services provides support to job seekers throughout the discovery, career exploration, and job development processes as they look to find meaningful jobs that match well with their vocational goals, skills, and interests.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
